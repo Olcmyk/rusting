@@ -2,7 +2,7 @@
 
 A slowly rusting digital installation.
 
-[Observe the Rusting](https://rusting.vercel.app)
+[Observe the Rusting](https://rusting-xi.vercel.app)
 
 ### Status
 
