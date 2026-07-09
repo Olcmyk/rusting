@@ -8,7 +8,7 @@ A slowly rusting digital installation.
 
 ```text
 █████████████████████████████████████████████████████████████████████████████░░░
-Metal: 96.7%                                                          Rust: 3.3%
+Metal: 96.6%                                                          Rust: 3.4%
 
 Deployed: 2026-03-08
 Duration: 3650 days
